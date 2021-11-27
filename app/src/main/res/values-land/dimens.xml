@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<resources>
+    <dimen name="login_social_card_size">60dp</dimen>
+    <dimen name="login_social_card_space">24dp</dimen>
+    <dimen name="login_social_card_img_padding">16dp</dimen>
+</resources>

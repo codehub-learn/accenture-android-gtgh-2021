@@ -22,6 +22,8 @@ public class MainActivity extends AbsActivity {
     @Override
     public void startOperations() {
 
+        getApplicationContext().getResources().getStringArray(R.array.menu);
+
         ImageView backButton = findViewById(R.id.login_back_btn);
         Button bthLogin = findViewById(R.id.login_btn_login);
         TextView forgotPass = findViewById(R.id.login_forgot);

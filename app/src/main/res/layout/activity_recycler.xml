@@ -13,8 +13,6 @@
         android:layout_height="match_parent"
         android:orientation="vertical"
         app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
-        tools:layout_editor_absoluteX="28dp"
-        tools:layout_editor_absoluteY="-231dp"
         tools:listitem="@layout/holder_list_item" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

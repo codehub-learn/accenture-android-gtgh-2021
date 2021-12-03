@@ -16,6 +16,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AccentureDemoApp">
         <activity
+            android:name=".ui.tv.ProgramListActivity"
+            android:exported="false" />
+        <activity
             android:name=".vvmv.MVVMActivity"
             android:exported="false" />
         <activity
